@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.emirefeparlak843_creator.twa",
+        "sha256_cert_fingerprints": ["67:21:9F:18:15:3D:ED:AB:12:0A:A8:E2:4F:3F:11:79:5E:EC:E1:84:78:2C:46:92:F9:69:09:D9:4D:C4:20:69"]
+      }
+    }]
